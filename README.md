@@ -21,3 +21,4 @@ For example:
 
 ## Recommended hostings
 - [ModBotIC (40mb free)](https://discord.gg/amU34a6)
+- [Lawliet Host (2 GB)](https://discord.gg/lawliet)
